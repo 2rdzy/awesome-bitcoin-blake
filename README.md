@@ -199,6 +199,7 @@ Listed because people ask, not as a recommendation. These are small custodial ve
 - [NonKYC](https://nonkyc.io/market/BTCB2_USDT) - BTCB2/USDT. The exchange's own asset record names it "XBT (BTCB2 / Blake2b fork)".
 - [NeoxEX](https://neoxa.exchange/trade/BTCB2_USDC) - XBT/USDC spot market, URL uses BTCB2.
 - [SafeTrade](https://safetrade.com/exchange/XBT-USDT?type=basic) - XBT/USDT. Listed alongside a separate BTC market, so check you are on XBT.
+- [AltQuick](https://altquick.com/market/bitcoin-blake2b-bitcoin/) - BTC2B/BTC, a US exchange running since 2015 and the one BTC pair. Deposits use the same bech32 address for Bitcoin and BLAKE2b, so an unsplit send credits both; the exchange's own [asset page](https://altquick.com/) says so. Ticker BTC2B, not XBT.
 
 ## Specs and documentation
 
