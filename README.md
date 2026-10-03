@@ -105,6 +105,7 @@ Spread your hashrate. In early September 2026 one pool held over a third of the 
 - [c2pool](https://github.com/frstrtr/c2pool) - P2Pool rebirth in C++ with a BIP-110 lane, BLAKE2b sharechain and share explorer. Live sharechain at [bip110.voidbind.com](https://bip110.voidbind.com/), 0.1% author donation. *Experimental.*
 - [AlphaPool BLAKE2b](https://knots.alphapool.tech/) - The largest pool by hashrate, PPLNS, 2.5% fee, balances held until maturity. Enforces a 30% network-hashrate connection cap and asks miners to point elsewhere. *Closed-source pool software.*
 - [Blockvase Pool](https://blockvase.com/#pool) - Non-custodial DATUM pool paid from the coinbase, with a public stratum and a rolling work window of 8x nethash. DATUM fee stays at 0% until the first pool block, then 0.21%; public stratum is 2.3%. Caps public hashrate. Source at [Blockvase/c_datum_prime](https://github.com/Blockvase/c_datum_prime).
+- [Terminus Pool](https://terminuspool.xyz/) - DATUM-only, non-custodial RATUM Prime pool paid directly from the coinbase, with public telemetry and an Umbrel package. 0% DATUM operational fee through November 5, 2026, then 1%.
 
 ### Gateways and miner software
 
