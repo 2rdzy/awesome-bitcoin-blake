@@ -106,6 +106,7 @@ Spread your hashrate. In early September 2026 one pool held over a third of the 
 - [AlphaPool BLAKE2b](https://knots.alphapool.tech/) - The largest pool by hashrate, PPLNS, 2.5% fee, balances held until maturity. Enforces a 30% network-hashrate connection cap and asks miners to point elsewhere. *Closed-source pool software.*
 - [Blockvase Pool](https://blockvase.com/#pool) - Non-custodial DATUM pool paid from the coinbase, with a public stratum and a rolling work window of 8x nethash. DATUM fee stays at 0% until the first pool block, then 0.21%; public stratum is 2.3%. Caps public hashrate. Source at [Blockvase/c_datum_prime](https://github.com/Blockvase/c_datum_prime).
 - [Terminus Pool](https://terminuspool.xyz/) - DATUM-only, non-custodial RATUM Prime pool paid directly from the coinbase, with public telemetry and an Umbrel package. 0% DATUM operational fee through November 5, 2026, then 1%.
+- [Sentinel BTCB2 Pool](https://pool.sentineldefensetechnologies.co.za/) - Work-weighted PPLNS-8D pool paid from the coinbase upon maturity, featuring an adaptive anti-concentration dynamic fee (0% baseline) with dual Stratum V1 and sovereign DATUM V3 template ingress.
 
 ### Gateways and miner software
 
