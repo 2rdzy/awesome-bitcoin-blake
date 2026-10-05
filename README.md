@@ -51,7 +51,8 @@ Read from `src/kernel/chainparams.cpp`, `src/kernel/chainparamsbase.cpp` and `sr
 - [Bitcoin Knots website](https://bitcoinknots.org/) - Binaries and signatures.
 - [Knots release notes](https://github.com/bitcoinknots/bitcoin/blob/v29.4.1.knots20260508/doc/release-notes.md) - What changed in the hardfork release, including the new header fields exposed over RPC.
 - [Knots Guix attestations](https://github.com/bitcoinknots/guix.sigs) - Reproducible build signatures for the release.
-
+- [Bitcoin Peer Map](https://github.com/spyhunter493/Bitcoin-Peer-Map) - Self-hosted Docker dashboard for Bitcoin Knots that maps connected peers by location, network and service provider, provides peer management controls.
+  
 ## Wallets
 
 - [Sparrow (BLAKE2b build)](https://github.com/paulscode/sparrow/releases) - Paul Lamb's Sparrow 2.5.5 on the `blake2b` branch. Follows the BLAKE2b chain and signs with the unified opt-in sighash for replay protection. Needs electrs-pruned, which implements the header extension this build expects.
